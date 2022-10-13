@@ -1,0 +1,6 @@
+// Enable Linting on Save with Visual Studio Code and ESLint
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
+   }
